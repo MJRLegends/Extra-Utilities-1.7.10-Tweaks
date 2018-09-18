@@ -1,3 +1,5 @@
+[![](http://cf.way2muchnoise.eu/full_extra-utilities-tweaks_downloads.svg)](https://minecraft.curseforge.com/projects/extra-utilities-tweaks) [![](http://cf.way2muchnoise.eu/versions/Minecraft_extra-utilities-tweaks_all.svg)](https://minecraft.curseforge.com/projects/extra-utilities-tweaks)
+
 # Extra-Utilities-1.7.10-Tweaks
 A mod including some Extra Utilities 1.7.10 Tweaks
 
